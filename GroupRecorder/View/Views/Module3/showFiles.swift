@@ -19,7 +19,7 @@ struct showFiles: View {
                 Text("AudioURL")
                 Button(action: {
                 }, label: {
-                    Image(systemName:  "play")
+                    Image(systemName:"play")
                 })
                 Button(action: {
                 }, label: {

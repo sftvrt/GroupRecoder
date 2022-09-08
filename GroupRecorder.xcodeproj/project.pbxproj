@@ -33,8 +33,8 @@
 		378167DC25349C1100C81F70 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 378167DB25349C1100C81F70 /* Assets.xcassets */; };
 		378167DF25349C1100C81F70 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 378167DE25349C1100C81F70 /* Preview Assets.xcassets */; };
 		378167E225349C1100C81F70 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 378167E025349C1100C81F70 /* LaunchScreen.storyboard */; };
-		378167ED25349C1100C81F70 /* BachelorarbeitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378167EC25349C1100C81F70 /* BachelorarbeitTests.swift */; };
-		378167F825349C1100C81F70 /* BachelorarbeitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378167F725349C1100C81F70 /* BachelorarbeitUITests.swift */; };
+		378167ED25349C1100C81F70 /* GroupRecorderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378167EC25349C1100C81F70 /* GroupRecorderTests.swift */; };
+		378167F825349C1100C81F70 /* GroupRecorderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378167F725349C1100C81F70 /* GroupRecorderUITests.swift */; };
 		37948A23283650D300ED3B19 /* writeTxtFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37948A22283650D300ED3B19 /* writeTxtFile.swift */; };
 		3794E408283532D300B6B9D0 /* LocationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3794E407283532D300B6B9D0 /* LocationViewModel.swift */; };
 		379E2D23283CC2D1003807A4 /* testAudio.wav in Resources */ = {isa = PBXBuildFile; fileRef = 379E2D22283CC2D1003807A4 /* testAudio.wav */; };
@@ -91,18 +91,18 @@
 		377A9FC325825CA10094B4E0 /* NearbyServiceDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NearbyServiceDelegate.swift; sourceTree = "<group>"; };
 		377A9FCB25825E210094B4E0 /* Aufnahme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aufnahme.swift; sourceTree = "<group>"; };
 		377A9FD025825F260094B4E0 /* AudioRecorder2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioRecorder2.swift; sourceTree = "<group>"; };
-		378167D225349C0C00C81F70 /* Bachelorarbeit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bachelorarbeit.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		378167D225349C0C00C81F70 /* GroupRecorder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GroupRecorder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		378167D525349C0C00C81F70 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		378167D725349C0C00C81F70 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		378167DB25349C1100C81F70 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		378167DE25349C1100C81F70 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		378167E125349C1100C81F70 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		378167E325349C1100C81F70 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		378167E825349C1100C81F70 /* BachelorarbeitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BachelorarbeitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		378167EC25349C1100C81F70 /* BachelorarbeitTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BachelorarbeitTests.swift; sourceTree = "<group>"; };
+		378167E825349C1100C81F70 /* GroupRecorderTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GroupRecorderTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		378167EC25349C1100C81F70 /* GroupRecorderTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupRecorderTests.swift; sourceTree = "<group>"; };
 		378167EE25349C1100C81F70 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		378167F325349C1100C81F70 /* BachelorarbeitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BachelorarbeitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		378167F725349C1100C81F70 /* BachelorarbeitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BachelorarbeitUITests.swift; sourceTree = "<group>"; };
+		378167F325349C1100C81F70 /* GroupRecorderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GroupRecorderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		378167F725349C1100C81F70 /* GroupRecorderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupRecorderUITests.swift; sourceTree = "<group>"; };
 		378167F925349C1100C81F70 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		37948A22283650D300ED3B19 /* writeTxtFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = writeTxtFile.swift; sourceTree = "<group>"; };
 		3794E407283532D300B6B9D0 /* LocationViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationViewModel.swift; sourceTree = "<group>"; };
@@ -229,9 +229,9 @@
 				378167D525349C0C00C81F70 /* AppDelegate.swift */,
 				378167D725349C0C00C81F70 /* SceneDelegate.swift */,
 				37C29916289CF68400D5696A /* Localizable.strings */,
-				378167D425349C0C00C81F70 /* Bachelorarbeit */,
-				378167EB25349C1100C81F70 /* BachelorarbeitTests */,
-				378167F625349C1100C81F70 /* BachelorarbeitUITests */,
+				378167D425349C0C00C81F70 /* GroupRecorder */,
+				378167EB25349C1100C81F70 /* GroupRecorderTests */,
+				378167F625349C1100C81F70 /* GroupRecorderUITests */,
 				378167D325349C0C00C81F70 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -239,14 +239,14 @@
 		378167D325349C0C00C81F70 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				378167D225349C0C00C81F70 /* Bachelorarbeit.app */,
-				378167E825349C1100C81F70 /* BachelorarbeitTests.xctest */,
-				378167F325349C1100C81F70 /* BachelorarbeitUITests.xctest */,
+				378167D225349C0C00C81F70 /* GroupRecorder.app */,
+				378167E825349C1100C81F70 /* GroupRecorderTests.xctest */,
+				378167F325349C1100C81F70 /* GroupRecorderUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		378167D425349C0C00C81F70 /* Bachelorarbeit */ = {
+		378167D425349C0C00C81F70 /* GroupRecorder */ = {
 			isa = PBXGroup;
 			children = (
 				37E0956225A6506C006EAC0A /* ViewModell */,
@@ -262,7 +262,7 @@
 				378167DD25349C1100C81F70 /* Preview Content */,
 				373C1ADD2843BCE100D56A6F /* Bachelorarbeit-Bridging-Header.h */,
 			);
-			path = Bachelorarbeit;
+			path = GroupRecorder;
 			sourceTree = "<group>";
 		};
 		378167DD25349C1100C81F70 /* Preview Content */ = {
@@ -273,22 +273,22 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		378167EB25349C1100C81F70 /* BachelorarbeitTests */ = {
+		378167EB25349C1100C81F70 /* GroupRecorderTests */ = {
 			isa = PBXGroup;
 			children = (
-				378167EC25349C1100C81F70 /* BachelorarbeitTests.swift */,
+				378167EC25349C1100C81F70 /* GroupRecorderTests.swift */,
 				378167EE25349C1100C81F70 /* Info.plist */,
 			);
-			path = BachelorarbeitTests;
+			path = GroupRecorderTests;
 			sourceTree = "<group>";
 		};
-		378167F625349C1100C81F70 /* BachelorarbeitUITests */ = {
+		378167F625349C1100C81F70 /* GroupRecorderUITests */ = {
 			isa = PBXGroup;
 			children = (
-				378167F725349C1100C81F70 /* BachelorarbeitUITests.swift */,
+				378167F725349C1100C81F70 /* GroupRecorderUITests.swift */,
 				378167F925349C1100C81F70 /* Info.plist */,
 			);
-			path = BachelorarbeitUITests;
+			path = GroupRecorderUITests;
 			sourceTree = "<group>";
 		};
 		37D448612549A1920025FCEB /* Modell */ = {
@@ -343,9 +343,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		378167D125349C0C00C81F70 /* Bachelorarbeit */ = {
+		378167D125349C0C00C81F70 /* GroupRecorder */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 378167FC25349C1100C81F70 /* Build configuration list for PBXNativeTarget "Bachelorarbeit" */;
+			buildConfigurationList = 378167FC25349C1100C81F70 /* Build configuration list for PBXNativeTarget "GroupRecorder" */;
 			buildPhases = (
 				378167CE25349C0C00C81F70 /* Sources */,
 				378167CF25349C0C00C81F70 /* Frameworks */,
@@ -355,14 +355,14 @@
 			);
 			dependencies = (
 			);
-			name = Bachelorarbeit;
+			name = GroupRecorder;
 			productName = Bachelorarbeit;
-			productReference = 378167D225349C0C00C81F70 /* Bachelorarbeit.app */;
+			productReference = 378167D225349C0C00C81F70 /* GroupRecorder.app */;
 			productType = "com.apple.product-type.application";
 		};
-		378167E725349C1100C81F70 /* BachelorarbeitTests */ = {
+		378167E725349C1100C81F70 /* GroupRecorderTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 378167FF25349C1100C81F70 /* Build configuration list for PBXNativeTarget "BachelorarbeitTests" */;
+			buildConfigurationList = 378167FF25349C1100C81F70 /* Build configuration list for PBXNativeTarget "GroupRecorderTests" */;
 			buildPhases = (
 				378167E425349C1100C81F70 /* Sources */,
 				378167E525349C1100C81F70 /* Frameworks */,
@@ -373,14 +373,14 @@
 			dependencies = (
 				378167EA25349C1100C81F70 /* PBXTargetDependency */,
 			);
-			name = BachelorarbeitTests;
+			name = GroupRecorderTests;
 			productName = BachelorarbeitTests;
-			productReference = 378167E825349C1100C81F70 /* BachelorarbeitTests.xctest */;
+			productReference = 378167E825349C1100C81F70 /* GroupRecorderTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		378167F225349C1100C81F70 /* BachelorarbeitUITests */ = {
+		378167F225349C1100C81F70 /* GroupRecorderUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3781680225349C1100C81F70 /* Build configuration list for PBXNativeTarget "BachelorarbeitUITests" */;
+			buildConfigurationList = 3781680225349C1100C81F70 /* Build configuration list for PBXNativeTarget "GroupRecorderUITests" */;
 			buildPhases = (
 				378167EF25349C1100C81F70 /* Sources */,
 				378167F025349C1100C81F70 /* Frameworks */,
@@ -391,9 +391,9 @@
 			dependencies = (
 				378167F525349C1100C81F70 /* PBXTargetDependency */,
 			);
-			name = BachelorarbeitUITests;
+			name = GroupRecorderUITests;
 			productName = BachelorarbeitUITests;
-			productReference = 378167F325349C1100C81F70 /* BachelorarbeitUITests.xctest */;
+			productReference = 378167F325349C1100C81F70 /* GroupRecorderUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -419,7 +419,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 378167CD25349C0C00C81F70 /* Build configuration list for PBXProject "Bachelorarbeit" */;
+			buildConfigurationList = 378167CD25349C0C00C81F70 /* Build configuration list for PBXProject "GroupRecorder" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -434,9 +434,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				378167D125349C0C00C81F70 /* Bachelorarbeit */,
-				378167E725349C1100C81F70 /* BachelorarbeitTests */,
-				378167F225349C1100C81F70 /* BachelorarbeitUITests */,
+				378167D125349C0C00C81F70 /* GroupRecorder */,
+				378167E725349C1100C81F70 /* GroupRecorderTests */,
+				378167F225349C1100C81F70 /* GroupRecorderUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -517,7 +517,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				378167ED25349C1100C81F70 /* BachelorarbeitTests.swift in Sources */,
+				378167ED25349C1100C81F70 /* GroupRecorderTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -525,7 +525,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				378167F825349C1100C81F70 /* BachelorarbeitUITests.swift in Sources */,
+				378167F825349C1100C81F70 /* GroupRecorderUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -534,12 +534,12 @@
 /* Begin PBXTargetDependency section */
 		378167EA25349C1100C81F70 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 378167D125349C0C00C81F70 /* Bachelorarbeit */;
+			target = 378167D125349C0C00C81F70 /* GroupRecorder */;
 			targetProxy = 378167E925349C1100C81F70 /* PBXContainerItemProxy */;
 		};
 		378167F525349C1100C81F70 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 378167D125349C0C00C81F70 /* Bachelorarbeit */;
+			target = 378167D125349C0C00C81F70 /* GroupRecorder */;
 			targetProxy = 378167F425349C1100C81F70 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -752,7 +752,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Bachelorarbeit.app/Bachelorarbeit";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GroupRecorder.app/GroupRecorder";
 			};
 			name = Debug;
 		};
@@ -773,7 +773,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Bachelorarbeit.app/Bachelorarbeit";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GroupRecorder.app/GroupRecorder";
 			};
 			name = Release;
 		};
@@ -818,7 +818,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		378167CD25349C0C00C81F70 /* Build configuration list for PBXProject "Bachelorarbeit" */ = {
+		378167CD25349C0C00C81F70 /* Build configuration list for PBXProject "GroupRecorder" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				378167FA25349C1100C81F70 /* Debug */,
@@ -827,7 +827,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		378167FC25349C1100C81F70 /* Build configuration list for PBXNativeTarget "Bachelorarbeit" */ = {
+		378167FC25349C1100C81F70 /* Build configuration list for PBXNativeTarget "GroupRecorder" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				378167FD25349C1100C81F70 /* Debug */,
@@ -836,7 +836,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		378167FF25349C1100C81F70 /* Build configuration list for PBXNativeTarget "BachelorarbeitTests" */ = {
+		378167FF25349C1100C81F70 /* Build configuration list for PBXNativeTarget "GroupRecorderTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3781680025349C1100C81F70 /* Debug */,
@@ -845,7 +845,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3781680225349C1100C81F70 /* Build configuration list for PBXNativeTarget "BachelorarbeitUITests" */ = {
+		3781680225349C1100C81F70 /* Build configuration list for PBXNativeTarget "GroupRecorderUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3781680325349C1100C81F70 /* Debug */,
